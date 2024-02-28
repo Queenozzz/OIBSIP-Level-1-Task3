@@ -234,3 +234,16 @@ select{
     
 }
 
+@media(max-width: 600px){
+
+    .container {
+        width: 440px;
+        padding: 15px;
+            
+    }
+
+    #title{
+        letter-spacing: 0;
+        font-weight: 100;
+    }
+}
